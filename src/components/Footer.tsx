@@ -43,7 +43,7 @@ export default function Footer() {
               </svg>
             </a>
             <a
-              href="mailto:joe@securityblox.co"
+              href="mailto:joe.poole@securityblox.co"
               className="text-zinc-400 hover:text-white transition-colors"
               aria-label="Email"
             >

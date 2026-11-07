@@ -10,8 +10,8 @@ const contactMethods = [
       </svg>
     ),
     label: 'Email',
-    value: 'joe@securityblox.co',
-    href: 'mailto:joe@securityblox.co',
+    value: 'joe.poole@securityblox.co',
+    href: 'mailto:joe.poole@securityblox.co',
   },
   {
     icon: (
@@ -98,7 +98,7 @@ export default function Contact() {
           }`}
         >
           <a
-            href="mailto:joe@securityblox.co?subject=Let's Connect"
+            href="mailto:joe.poole@securityblox.co?subject=Let's Connect"
             className="inline-flex items-center gap-2 px-8 py-4 rounded-full bg-gradient-to-r from-primary-600 to-accent-blue hover:from-primary-500 hover:to-blue-500 transition-all font-semibold text-lg glow-hover"
           >
             Start a Conversation
