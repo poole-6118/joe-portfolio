@@ -3,9 +3,9 @@
 import { useEffect, useState } from 'react';
 
 const stats = [
-  { value: '26', label: 'Years', sublabel: 'In the Industry' },
-  { value: 'Multi', label: 'Framework', sublabel: 'Expertise' },
-  { value: 'Enterprise', label: 'Scale', sublabel: 'Experience' },
+  { value: '26', label: 'Years', sublabel: 'Industry Experience' },
+  { value: 'Executive', label: 'Leadership', sublabel: 'Security Programs' },
+  { value: 'AI', label: 'Transformation', sublabel: 'Pioneer' },
 ];
 
 export default function Hero() {
@@ -56,8 +56,8 @@ export default function Hero() {
             visible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'
           }`}
         >
-          I help organizations build resilient security programs, achieve compliance, 
-          and govern AI systems with confidence.
+          Executive leader building enterprise security programs from the ground up — 
+          and transforming organizations through AI-powered automation.
         </p>
 
         {/* CTA Buttons */}

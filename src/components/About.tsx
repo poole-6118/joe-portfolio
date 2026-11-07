@@ -43,17 +43,17 @@ export default function About() {
             }`}
           >
             <p className="text-lg text-zinc-300 leading-relaxed mb-6">
-              A cybersecurity professional with 26 years of experience helping regulated organizations 
-              translate complex compliance requirements into business-aligned, scalable security 
-              programs that deliver measurable risk reduction with audit-ready outcomes.
+              An executive security leader with 26 years of experience building and scaling enterprise 
+              security programs — from startup to Fortune 500, from first CISO hire to mature SOC operations.
             </p>
             <p className="text-lg text-zinc-400 leading-relaxed mb-6">
-              Running <span className="text-primary-400 font-medium">SecurityBlox</span>, a consultancy focused on 
-              helping organizations navigate the intersection of cloud security, AI governance, and compliance.
+              Through <span className="text-primary-400 font-medium">SecurityBlox</span>, I help organizations 
+              navigate complex compliance landscapes while pioneering AI-driven transformation — turning security 
+              from a cost center into a competitive advantage.
             </p>
             <p className="text-lg text-zinc-400 leading-relaxed">
-              I specialize in building security programs from the ground up, automating compliance workflows, 
-              and deploying AI-powered solutions that turn GRC from a cost center into a strategic advantage.
+              I specialize in building security programs from the ground up, leading cross-functional teams, 
+              and deploying autonomous AI systems that fundamentally change how organizations approach risk.
             </p>
           </div>
 
