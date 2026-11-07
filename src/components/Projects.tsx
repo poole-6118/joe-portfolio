@@ -5,8 +5,8 @@ import { useEffect, useRef, useState } from 'react';
 const projects = [
   {
     title: 'Enterprise SIEM Automation',
-    description: 'Deployed Wazuh SIEM with custom integrations for JumpCloud, SentinelOne, and cloud platforms. Built automated threat detection, compliance monitoring, and SOC alerting workflows.',
-    tags: ['Wazuh', 'Python', 'AWS', 'Automation'],
+    description: 'Deployed Wazuh SIEM with deep integrations into AWS CloudTrail, Microsoft Sentinel, and SentinelOne. Built automated threat detection pipelines, compliance monitoring dashboards, and real-time SOC alerting workflows.',
+    tags: ['Wazuh', 'AWS CloudTrail', 'MS Sentinel', 'Python'],
     type: 'Security Operations',
     highlight: true,
   },
