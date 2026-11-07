@@ -21,7 +21,7 @@ const contactMethods = [
     ),
     label: 'LinkedIn',
     value: 'Connect with me',
-    href: 'https://linkedin.com/in/joepoole',
+    href: 'https://linkedin.com/in/jpoole6118',
   },
 ];
 

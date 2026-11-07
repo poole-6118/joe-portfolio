@@ -26,13 +26,13 @@ const expertiseCategories = [
   },
   {
     id: 4,
-    title: 'Emerging Focus',
+    title: 'AI Agent Security',
     items: [
-      'AI Governance & Risk',
-      'Agentic Systems Security',
-      'LLM Security & Prompt Injection',
-      'GCC High / IL4-IL5',
-      'Zero Trust Architecture',
+      'Prompt Injection Defense',
+      'Tool Execution Security',
+      'Workload Isolation & Sandboxing',
+      'Data Exfiltration Controls',
+      'Agentic Threat Modeling',
     ],
   },
   {
@@ -57,7 +57,7 @@ const expertiseCategories = [
   {
     id: 7,
     title: 'Tools & Platforms',
-    tags: ['Wazuh SIEM', 'Drata', 'AWS Security Hub', 'JumpCloud', 'Okta', 'Azure Sentinel', 'SentinelOne', 'Lumos', 'Wiz'],
+    tags: ['AWS Security Hub', 'GuardDuty', 'CloudTrail', 'Azure Sentinel', 'CrowdStrike', 'Expel MDR/XDR', 'Drata', 'Okta', 'Snyk'],
   },
   {
     id: 8,

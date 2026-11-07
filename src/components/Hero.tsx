@@ -28,14 +28,13 @@ export default function Hero() {
       <div className="absolute inset-0 bg-[linear-gradient(rgba(255,255,255,0.02)_1px,transparent_1px),linear-gradient(90deg,rgba(255,255,255,0.02)_1px,transparent_1px)] bg-[size:64px_64px]" />
 
       <div className="relative z-10 max-w-6xl mx-auto px-6 py-32 text-center">
-        {/* Status badge */}
+        {/* Certifications badge */}
         <div
-          className={`inline-flex items-center gap-2 px-4 py-2 rounded-full bg-green-500/10 border border-green-500/20 mb-8 transition-all duration-700 ${
+          className={`inline-flex items-center gap-2 px-4 py-2 rounded-full bg-primary-500/10 border border-primary-500/20 mb-8 transition-all duration-700 ${
             visible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'
           }`}
         >
-          <span className="w-2 h-2 rounded-full bg-green-500 animate-pulse" />
-          <span className="text-sm text-green-400">Available for consulting</span>
+          <span className="text-sm text-primary-300 font-mono">CISSP • CCSP • CRISC • AWS Security • ISO 27001 LA</span>
         </div>
 
         {/* Main headline */}
