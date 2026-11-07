@@ -34,7 +34,7 @@ export default function Hero() {
             visible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'
           }`}
         >
-          <span className="text-sm text-primary-300 font-mono">CISSP • CCSP • CRISC • AWS Security • ISO 27001 LA</span>
+          <span className="text-sm text-primary-300 font-mono">CISSP • CCSP • CRISC • CGE-P • AWS Security Specialty • ISO 27001 LA</span>
         </div>
 
         {/* Main headline */}
