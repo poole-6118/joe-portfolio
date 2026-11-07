@@ -17,7 +17,7 @@ const expertiseCategories = [
   {
     id: 2,
     title: 'Industry Experience',
-    tags: ['Defense & Government', 'Voice Analytics / AI', 'Healthcare', 'Financial Services', 'SaaS / Technology'],
+    tags: ['Federal Government', 'Defense / DoD', 'State & Local', 'Healthcare', 'Financial Services', 'SaaS / Technology'],
   },
   {
     id: 3,
